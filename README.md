@@ -1,13 +1,5 @@
-#MyPythonProjects
-
-==========================================
-
-A place where I put all my Python projects
-
-My Instagram: @1.7x5
-
-My Facebook: @AbdouMHN22
-
-Hope u like it <3 love
-
-==========================================
+- 👋 Hi, I’m @17xr 17 y old newbie from Algeria <3
+- 👀 I’m interested in CS and Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on future projects
+- 📫 How to reach me Insta @1.7x5 Facebook @AbdouMHN22
