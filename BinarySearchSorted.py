@@ -37,7 +37,7 @@ def binary_search1(arr,elem):
         if arr[mid] == elem:
             return mid
         elif arr[mid] > elem:
-            right = mid + 1
+            right -= 1
         else:
-            left = mid - 1
+            left += 1
     return -1
