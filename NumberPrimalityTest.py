@@ -35,3 +35,4 @@ def sieve_of_eratosthenes(num):
         print("{} is a prime number !".format(num))
     else:
         print("{} is not a prime number !".format(num))
+        
